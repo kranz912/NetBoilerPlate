@@ -1,0 +1,468 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\gitenv\\NetBoilerPlate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB1F2C4-7450-46E8-B4E4-5F9DA4CB2E34}|Solution Items{7AB1F2C4-7450-46E8-B4E4-5F9DA4CB2E34}|C:\\gitenv\\NetBoilerPlate\\Directory.Build.props||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7AB1F2C4-7450-46E8-B4E4-5F9DA4CB2E34}|Solution Items{7AB1F2C4-7450-46E8-B4E4-5F9DA4CB2E34}|solutionrelative:Directory.Build.props||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47162A1-A43D-44E1-A98B-4649F6ACD2DF}|src\\Infrastructure\\Infrastructure.csproj|c:\\gitenv\\netboilerplate\\src\\infrastructure\\caching\\rediscacheservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47162A1-A43D-44E1-A98B-4649F6ACD2DF}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\caching\\rediscacheservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47162A1-A43D-44E1-A98B-4649F6ACD2DF}|src\\Infrastructure\\Infrastructure.csproj|c:\\gitenv\\netboilerplate\\src\\infrastructure\\security\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47162A1-A43D-44E1-A98B-4649F6ACD2DF}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\security\\jwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47162A1-A43D-44E1-A98B-4649F6ACD2DF}|src\\Infrastructure\\Infrastructure.csproj|c:\\gitenv\\netboilerplate\\src\\infrastructure\\eventbus\\azureservicebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47162A1-A43D-44E1-A98B-4649F6ACD2DF}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\eventbus\\azureservicebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47162A1-A43D-44E1-A98B-4649F6ACD2DF}|src\\Infrastructure\\Infrastructure.csproj|c:\\gitenv\\netboilerplate\\src\\infrastructure\\filestorage\\filestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47162A1-A43D-44E1-A98B-4649F6ACD2DF}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\filestorage\\filestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47162A1-A43D-44E1-A98B-4649F6ACD2DF}|src\\Infrastructure\\Infrastructure.csproj|c:\\gitenv\\netboilerplate\\src\\infrastructure\\filestorage\\blobstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47162A1-A43D-44E1-A98B-4649F6ACD2DF}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\filestorage\\blobstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47162A1-A43D-44E1-A98B-4649F6ACD2DF}|src\\Infrastructure\\Infrastructure.csproj|c:\\gitenv\\netboilerplate\\src\\infrastructure\\logging\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47162A1-A43D-44E1-A98B-4649F6ACD2DF}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\logging\\filelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47162A1-A43D-44E1-A98B-4649F6ACD2DF}|src\\Infrastructure\\Infrastructure.csproj|c:\\gitenv\\netboilerplate\\src\\infrastructure\\logging\\databaselogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47162A1-A43D-44E1-A98B-4649F6ACD2DF}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\logging\\databaselogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47162A1-A43D-44E1-A98B-4649F6ACD2DF}|src\\Infrastructure\\Infrastructure.csproj|c:\\gitenv\\netboilerplate\\src\\infrastructure\\configuration\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47162A1-A43D-44E1-A98B-4649F6ACD2DF}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\configuration\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B961D00E-A979-499C-B707-DE79358AFE29}|src\\Core\\Core.csproj|c:\\gitenv\\netboilerplate\\src\\core\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B961D00E-A979-499C-B707-DE79358AFE29}|src\\Core\\Core.csproj|solutionrelative:src\\core\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535AF03B-3252-4FA4-92A4-E0A0D30B8589}|src\\Web\\Web.csproj|c:\\gitenv\\netboilerplate\\src\\web\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535AF03B-3252-4FA4-92A4-E0A0D30B8589}|src\\Web\\Web.csproj|solutionrelative:src\\web\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535AF03B-3252-4FA4-92A4-E0A0D30B8589}|src\\Web\\Web.csproj|c:\\gitenv\\netboilerplate\\src\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{535AF03B-3252-4FA4-92A4-E0A0D30B8589}|src\\Web\\Web.csproj|solutionrelative:src\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47162A1-A43D-44E1-A98B-4649F6ACD2DF}|src\\Infrastructure\\Infrastructure.csproj|c:\\gitenv\\netboilerplate\\src\\infrastructure\\databaseseeder\\sqlscripts\\seedcustomers.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{F47162A1-A43D-44E1-A98B-4649F6ACD2DF}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\databaseseeder\\sqlscripts\\seedcustomers.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B961D00E-A979-499C-B707-DE79358AFE29}|src\\Core\\Core.csproj|c:\\gitenv\\netboilerplate\\src\\core\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B961D00E-A979-499C-B707-DE79358AFE29}|src\\Core\\Core.csproj|solutionrelative:src\\core\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535AF03B-3252-4FA4-92A4-E0A0D30B8589}|src\\Web\\Web.csproj|c:\\gitenv\\netboilerplate\\src\\web\\web.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{535AF03B-3252-4FA4-92A4-E0A0D30B8589}|src\\Web\\Web.csproj|solutionrelative:src\\web\\web.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{535AF03B-3252-4FA4-92A4-E0A0D30B8589}|src\\Web\\Web.csproj|c:\\gitenv\\netboilerplate\\src\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{535AF03B-3252-4FA4-92A4-E0A0D30B8589}|src\\Web\\Web.csproj|solutionrelative:src\\web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47162A1-A43D-44E1-A98B-4649F6ACD2DF}|src\\Infrastructure\\Infrastructure.csproj|c:\\gitenv\\netboilerplate\\src\\infrastructure\\databaseseeder\\seeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47162A1-A43D-44E1-A98B-4649F6ACD2DF}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\databaseseeder\\seeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47162A1-A43D-44E1-A98B-4649F6ACD2DF}|src\\Infrastructure\\Infrastructure.csproj|c:\\gitenv\\netboilerplate\\src\\infrastructure\\data\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47162A1-A43D-44E1-A98B-4649F6ACD2DF}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\data\\dbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47162A1-A43D-44E1-A98B-4649F6ACD2DF}|src\\Infrastructure\\Infrastructure.csproj|c:\\gitenv\\netboilerplate\\src\\infrastructure\\configuration\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47162A1-A43D-44E1-A98B-4649F6ACD2DF}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\configuration\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B961D00E-A979-499C-B707-DE79358AFE29}|src\\Core\\Core.csproj|c:\\gitenv\\netboilerplate\\src\\core\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B961D00E-A979-499C-B707-DE79358AFE29}|src\\Core\\Core.csproj|solutionrelative:src\\core\\interfaces\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47162A1-A43D-44E1-A98B-4649F6ACD2DF}|src\\Infrastructure\\Infrastructure.csproj|c:\\gitenv\\netboilerplate\\src\\infrastructure\\data\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47162A1-A43D-44E1-A98B-4649F6ACD2DF}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\data\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B961D00E-A979-499C-B707-DE79358AFE29}|src\\Core\\Core.csproj|c:\\gitenv\\netboilerplate\\src\\core\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B961D00E-A979-499C-B707-DE79358AFE29}|src\\Core\\Core.csproj|solutionrelative:src\\core\\interfaces\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B961D00E-A979-499C-B707-DE79358AFE29}|src\\Core\\Core.csproj|c:\\gitenv\\netboilerplate\\src\\core\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B961D00E-A979-499C-B707-DE79358AFE29}|src\\Core\\Core.csproj|solutionrelative:src\\core\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47162A1-A43D-44E1-A98B-4649F6ACD2DF}|src\\Infrastructure\\Infrastructure.csproj|c:\\gitenv\\netboilerplate\\src\\infrastructure\\externalservices\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F47162A1-A43D-44E1-A98B-4649F6ACD2DF}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\externalservices\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B961D00E-A979-499C-B707-DE79358AFE29}|src\\Core\\Core.csproj|c:\\gitenv\\netboilerplate\\src\\core\\interfaces\\idbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B961D00E-A979-499C-B707-DE79358AFE29}|src\\Core\\Core.csproj|solutionrelative:src\\core\\interfaces\\idbconnectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Microsoft.Common.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F47162A1-A43D-44E1-A98B-4649F6ACD2DF}|src\\Infrastructure\\Infrastructure.csproj|c:\\gitenv\\netboilerplate\\src\\infrastructure\\databaseseeder\\sqlscripts\\seedcustomers.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{F47162A1-A43D-44E1-A98B-4649F6ACD2DF}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\databaseseeder\\sqlscripts\\seedcustomers.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{99b8fa2f-ab90-4f57-9c32-949f146f1914}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RedisCacheServicecs.cs",
+              "DocumentMoniker": "C:\\gitenv\\NetBoilerPlate\\src\\Infrastructure\\Caching\\RedisCacheServicecs.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Caching\\RedisCacheServicecs.cs",
+              "ToolTip": "C:\\gitenv\\NetBoilerPlate\\src\\Infrastructure\\Caching\\RedisCacheServicecs.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Caching\\RedisCacheServicecs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:18:20.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtTokenService.cs",
+              "DocumentMoniker": "C:\\gitenv\\NetBoilerPlate\\src\\Infrastructure\\Security\\JwtTokenService.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Security\\JwtTokenService.cs",
+              "ToolTip": "C:\\gitenv\\NetBoilerPlate\\src\\Infrastructure\\Security\\JwtTokenService.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Security\\JwtTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:13:42.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AzureServiceBus.cs",
+              "DocumentMoniker": "C:\\gitenv\\NetBoilerPlate\\src\\Infrastructure\\EventBus\\AzureServiceBus.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\EventBus\\AzureServiceBus.cs",
+              "ToolTip": "C:\\gitenv\\NetBoilerPlate\\src\\Infrastructure\\EventBus\\AzureServiceBus.cs",
+              "RelativeToolTip": "src\\Infrastructure\\EventBus\\AzureServiceBus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:13:16.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlobStorageService.cs",
+              "DocumentMoniker": "C:\\gitenv\\NetBoilerPlate\\src\\Infrastructure\\FileStorage\\BlobStorageService.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\FileStorage\\BlobStorageService.cs",
+              "ToolTip": "C:\\gitenv\\NetBoilerPlate\\src\\Infrastructure\\FileStorage\\BlobStorageService.cs",
+              "RelativeToolTip": "src\\Infrastructure\\FileStorage\\BlobStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:12:45.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileStorageService.cs",
+              "DocumentMoniker": "C:\\gitenv\\NetBoilerPlate\\src\\Infrastructure\\FileStorage\\FileStorageService.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\FileStorage\\FileStorageService.cs",
+              "ToolTip": "C:\\gitenv\\NetBoilerPlate\\src\\Infrastructure\\FileStorage\\FileStorageService.cs",
+              "RelativeToolTip": "src\\Infrastructure\\FileStorage\\FileStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:12:18.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "C:\\gitenv\\NetBoilerPlate\\src\\Infrastructure\\Configuration\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Configuration\\EmailSettings.cs",
+              "ToolTip": "C:\\gitenv\\NetBoilerPlate\\src\\Infrastructure\\Configuration\\EmailSettings.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Configuration\\EmailSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:11:39.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatabaseLogger.cs",
+              "DocumentMoniker": "C:\\gitenv\\NetBoilerPlate\\src\\Infrastructure\\Logging\\DatabaseLogger.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Logging\\DatabaseLogger.cs",
+              "ToolTip": "C:\\gitenv\\NetBoilerPlate\\src\\Infrastructure\\Logging\\DatabaseLogger.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Logging\\DatabaseLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:11:18.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FileLogger.cs",
+              "DocumentMoniker": "C:\\gitenv\\NetBoilerPlate\\src\\Infrastructure\\Logging\\FileLogger.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Logging\\FileLogger.cs",
+              "ToolTip": "C:\\gitenv\\NetBoilerPlate\\src\\Infrastructure\\Logging\\FileLogger.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Logging\\FileLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T14:11:07.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Seeder.cs",
+              "DocumentMoniker": "C:\\gitenv\\NetBoilerPlate\\src\\Infrastructure\\DatabaseSeeder\\Seeder.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\DatabaseSeeder\\Seeder.cs",
+              "ToolTip": "C:\\gitenv\\NetBoilerPlate\\src\\Infrastructure\\DatabaseSeeder\\Seeder.cs",
+              "RelativeToolTip": "src\\Infrastructure\\DatabaseSeeder\\Seeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T10:57:22.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\gitenv\\NetBoilerPlate\\src\\Web\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Web\\Program.cs",
+              "ToolTip": "C:\\gitenv\\NetBoilerPlate\\src\\Web\\Program.cs",
+              "RelativeToolTip": "src\\Web\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T10:36:18.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Web.http",
+              "DocumentMoniker": "C:\\gitenv\\NetBoilerPlate\\src\\Web\\Web.http",
+              "RelativeDocumentMoniker": "src\\Web\\Web.http",
+              "ToolTip": "C:\\gitenv\\NetBoilerPlate\\src\\Web\\Web.http",
+              "RelativeToolTip": "src\\Web\\Web.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-30T10:36:17.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IDBConnectionFactory.cs",
+              "DocumentMoniker": "C:\\gitenv\\NetBoilerPlate\\src\\Core\\Interfaces\\IDBConnectionFactory.cs",
+              "RelativeDocumentMoniker": "src\\Core\\Interfaces\\IDBConnectionFactory.cs",
+              "ToolTip": "C:\\gitenv\\NetBoilerPlate\\src\\Core\\Interfaces\\IDBConnectionFactory.cs",
+              "RelativeToolTip": "src\\Core\\Interfaces\\IDBConnectionFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T10:25:18.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DBConnectionFactory.cs",
+              "DocumentMoniker": "C:\\gitenv\\NetBoilerPlate\\src\\Infrastructure\\Data\\DBConnectionFactory.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Data\\DBConnectionFactory.cs",
+              "ToolTip": "C:\\gitenv\\NetBoilerPlate\\src\\Infrastructure\\Data\\DBConnectionFactory.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Data\\DBConnectionFactory.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T10:24:53.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\gitenv\\NetBoilerPlate\\src\\Infrastructure\\Configuration\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Configuration\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\gitenv\\NetBoilerPlate\\src\\Infrastructure\\Configuration\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Configuration\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T10:11:11.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Directory.Build.props",
+              "DocumentMoniker": "C:\\gitenv\\NetBoilerPlate\\Directory.Build.props",
+              "RelativeDocumentMoniker": "Directory.Build.props",
+              "ToolTip": "C:\\gitenv\\NetBoilerPlate\\Directory.Build.props",
+              "RelativeToolTip": "Directory.Build.props",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-08-30T09:44:25.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\gitenv\\NetBoilerPlate\\src\\Core\\Interfaces\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "src\\Core\\Interfaces\\ICustomerService.cs",
+              "ToolTip": "C:\\gitenv\\NetBoilerPlate\\src\\Core\\Interfaces\\ICustomerService.cs",
+              "RelativeToolTip": "src\\Core\\Interfaces\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T10:08:07.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\gitenv\\NetBoilerPlate\\src\\Core\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "src\\Core\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\gitenv\\NetBoilerPlate\\src\\Core\\Services\\CustomerService.cs",
+              "RelativeToolTip": "src\\Core\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T10:07:31.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\gitenv\\NetBoilerPlate\\src\\Infrastructure\\ExternalServices\\EmailService.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\ExternalServices\\EmailService.cs",
+              "ToolTip": "C:\\gitenv\\NetBoilerPlate\\src\\Infrastructure\\ExternalServices\\EmailService.cs",
+              "RelativeToolTip": "src\\Infrastructure\\ExternalServices\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T10:00:50.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\gitenv\\NetBoilerPlate\\src\\Infrastructure\\Data\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\Data\\CustomerRepository.cs",
+              "ToolTip": "C:\\gitenv\\NetBoilerPlate\\src\\Infrastructure\\Data\\CustomerRepository.cs",
+              "RelativeToolTip": "src\\Infrastructure\\Data\\CustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T10:00:11.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\gitenv\\NetBoilerPlate\\src\\Core\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "src\\Core\\Interfaces\\IEmailService.cs",
+              "ToolTip": "C:\\gitenv\\NetBoilerPlate\\src\\Core\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "src\\Core\\Interfaces\\IEmailService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T09:58:57.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\gitenv\\NetBoilerPlate\\src\\Core\\Interfaces\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "src\\Core\\Interfaces\\ICustomerRepository.cs",
+              "ToolTip": "C:\\gitenv\\NetBoilerPlate\\src\\Core\\Interfaces\\ICustomerRepository.cs",
+              "RelativeToolTip": "src\\Core\\Interfaces\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T09:58:02.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\gitenv\\NetBoilerPlate\\src\\Core\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "src\\Core\\Entities\\Customer.cs",
+              "ToolTip": "C:\\gitenv\\NetBoilerPlate\\src\\Core\\Entities\\Customer.cs",
+              "RelativeToolTip": "src\\Core\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T09:55:56.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\gitenv\\NetBoilerPlate\\src\\Web\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "src\\Web\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\gitenv\\NetBoilerPlate\\src\\Web\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "src\\Web\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T09:47:41.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\gitenv\\NetBoilerPlate\\src\\Web\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Web\\appsettings.json",
+              "ToolTip": "C:\\gitenv\\NetBoilerPlate\\src\\Web\\appsettings.json",
+              "RelativeToolTip": "src\\Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-30T12:52:38.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SeedCustomers.sql ",
+              "DocumentMoniker": "C:\\gitenv\\NetBoilerPlate\\src\\Infrastructure\\DatabaseSeeder\\SQLScripts\\SeedCustomers.sql",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\DatabaseSeeder\\SQLScripts\\SeedCustomers.sql",
+              "ToolTip": "C:\\gitenv\\NetBoilerPlate\\src\\Infrastructure\\DatabaseSeeder\\SQLScripts\\SeedCustomers.sql",
+              "RelativeToolTip": "src\\Infrastructure\\DatabaseSeeder\\SQLScripts\\SeedCustomers.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-08-30T11:33:37.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Microsoft.Common.props",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Microsoft.Common.props",
+              "RelativeDocumentMoniker": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Microsoft.Common.props",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Microsoft.Common.props",
+              "RelativeToolTip": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Microsoft.Common.props",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwCEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-08-30T09:44:04.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

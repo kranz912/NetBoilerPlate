@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\gitenv\\NetBoilerPlate\\src\\Web\\Web\\Web.csproj": {}
+    "C:\\gitenv\\NetBoilerPlate\\src\\Web\\Web.csproj": {}
   },
   "projects": {
-    "C:\\gitenv\\NetBoilerPlate\\src\\Web\\Web\\Web.csproj": {
+    "C:\\gitenv\\NetBoilerPlate\\src\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\gitenv\\NetBoilerPlate\\src\\Web\\Web\\Web.csproj",
-        "projectName": "Web",
-        "projectPath": "C:\\gitenv\\NetBoilerPlate\\src\\Web\\Web\\Web.csproj",
+        "projectUniqueName": "C:\\gitenv\\NetBoilerPlate\\src\\Core\\Core.csproj",
+        "projectName": "Core",
+        "projectPath": "C:\\gitenv\\NetBoilerPlate\\src\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\znark\\.nuget\\packages\\",
-        "outputPath": "C:\\gitenv\\NetBoilerPlate\\src\\Web\\Web\\obj\\",
+        "outputPath": "C:\\gitenv\\NetBoilerPlate\\src\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\znark\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -32,6 +32,168 @@
           }
         },
         "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\gitenv\\NetBoilerPlate\\src\\Infrastructure\\Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\gitenv\\NetBoilerPlate\\src\\Infrastructure\\Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "C:\\gitenv\\NetBoilerPlate\\src\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\znark\\.nuget\\packages\\",
+        "outputPath": "C:\\gitenv\\NetBoilerPlate\\src\\Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\znark\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\gitenv\\NetBoilerPlate\\src\\Core\\Core.csproj": {
+                "projectPath": "C:\\gitenv\\NetBoilerPlate\\src\\Core\\Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            },
+            "Microsoft.Data.Sqlite.Core": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\gitenv\\NetBoilerPlate\\src\\Web\\Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\gitenv\\NetBoilerPlate\\src\\Web\\Web.csproj",
+        "projectName": "Web",
+        "projectPath": "C:\\gitenv\\NetBoilerPlate\\src\\Web\\Web.csproj",
+        "packagesPath": "C:\\Users\\znark\\.nuget\\packages\\",
+        "outputPath": "C:\\gitenv\\NetBoilerPlate\\src\\Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\znark\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\gitenv\\NetBoilerPlate\\src\\Core\\Core.csproj": {
+                "projectPath": "C:\\gitenv\\NetBoilerPlate\\src\\Core\\Core.csproj"
+              },
+              "C:\\gitenv\\NetBoilerPlate\\src\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\gitenv\\NetBoilerPlate\\src\\Infrastructure\\Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
           "warnAsError": [
             "NU1605"
           ]
@@ -49,6 +211,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[8.0.8, )"
+            },
+            "SQLitePCLRaw.bundle_e_sqlite3": {
+              "target": "Package",
+              "version": "[2.1.9, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
