@@ -24,3 +24,72 @@ To get started with this boilerplate, clone the repository and install the neces
 ## Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+
+
+Structure
+```
+└── 📁src
+    └── 📁Core
+        └── 📁Entities
+            └── Customer.cs
+        └── 📁Interfaces
+            └── ICustomerRepository.cs
+            └── ICustomerService.cs
+            └── IDBConnectionFactory.cs
+            └── IEmailService.cs
+        └── 📁Services
+            └── CustomerService.cs
+        └── Core.csproj
+    └── 📁Infrastructure
+        └── 📁BackgroundJobs
+        └── 📁Caching
+            └── RedisCacheServicecs.cs
+        └── 📁Configuration
+            └── EmailSettings.cs
+            └── ServiceCollectionExtensions.cs
+        └── 📁Data
+            └── CustomerRepository.cs
+            └── DBConnectionFactory.cs
+        └── 📁DatabaseSeeder
+            └── 📁SQLScripts
+                └── SeedCustomers.sql
+            └── Seeder.cs
+        └── 📁EventBus
+            └── AzureServiceBus.cs
+        └── 📁ExternalServices
+            └── 📁HttpClientWrappers
+            └── EmailService.cs
+        └── 📁FileStorage
+            └── BlobStorageService.cs
+            └── FileStorageService.cs
+        └── 📁Logging
+            └── DatabaseLogger.cs
+            └── FileLogger.cs
+        └── 📁Security
+            └── JwtTokenService.cs
+        └── Infrastructure.csproj
+    └── 📁Tests
+        └── 📁FunctionalTests
+
+            └── FunctionalTests.csproj
+            └── UnitTest1.cs
+        └── 📁IntegrationTests
+            └── IntegrationTests.csproj
+            └── UnitTest1.cs
+        └── 📁UnitTests
+            └── UnitTest1.cs
+            └── UnitTests.csproj
+    └── 📁Web
+        └── 📁Controllers
+            └── CustomerController.cs
+        └── 📁Properties
+            └── launchSettings.json
+        └── appsettings.Development.json
+        └── appsettings.json
+        └── mydatabase.db
+        └── Program.cs
+        └── Web.csproj
+        └── Web.csproj.user
+        └── Web.http
+```
