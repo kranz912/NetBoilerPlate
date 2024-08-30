@@ -3,8 +3,8 @@ C:\gitenv\NetBoilerPlate\src\Tests\UnitTests\bin\Debug\net8.0\testhost.exe
 C:\gitenv\NetBoilerPlate\src\Tests\UnitTests\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 C:\gitenv\NetBoilerPlate\src\Tests\UnitTests\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
 C:\gitenv\NetBoilerPlate\src\Tests\UnitTests\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
-C:\gitenv\NetBoilerPlate\src\tests\UnitTests\bin\Debug\net8.0\UnitTests.deps.json
-C:\gitenv\NetBoilerPlate\src\tests\UnitTests\bin\Debug\net8.0\UnitTests.runtimeconfig.json
+C:\gitenv\NetBoilerPlate\src\Tests\UnitTests\bin\Debug\net8.0\UnitTests.deps.json
+C:\gitenv\NetBoilerPlate\src\Tests\UnitTests\bin\Debug\net8.0\UnitTests.runtimeconfig.json
 C:\gitenv\NetBoilerPlate\src\Tests\UnitTests\bin\Debug\net8.0\UnitTests.dll
 C:\gitenv\NetBoilerPlate\src\Tests\UnitTests\bin\Debug\net8.0\UnitTests.pdb
 C:\gitenv\NetBoilerPlate\src\Tests\UnitTests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
@@ -92,9 +92,9 @@ C:\gitenv\NetBoilerPlate\src\Tests\UnitTests\obj\Debug\net8.0\UnitTests.Assembly
 C:\gitenv\NetBoilerPlate\src\Tests\UnitTests\obj\Debug\net8.0\UnitTests.AssemblyInfo.cs
 C:\gitenv\NetBoilerPlate\src\Tests\UnitTests\obj\Debug\net8.0\UnitTests.csproj.CoreCompileInputs.cache
 C:\gitenv\NetBoilerPlate\src\Tests\UnitTests\obj\Debug\net8.0\UnitTests.sourcelink.json
-C:\gitenv\NetBoilerPlate\src\tests\UnitTests\obj\Debug\net8.0\UnitTests.csproj.Up2Date
+C:\gitenv\NetBoilerPlate\src\Tests\UnitTests\obj\Debug\net8.0\UnitTests.csproj.Up2Date
 C:\gitenv\NetBoilerPlate\src\Tests\UnitTests\obj\Debug\net8.0\UnitTests.dll
 C:\gitenv\NetBoilerPlate\src\Tests\UnitTests\obj\Debug\net8.0\refint\UnitTests.dll
 C:\gitenv\NetBoilerPlate\src\Tests\UnitTests\obj\Debug\net8.0\UnitTests.pdb
-C:\gitenv\NetBoilerPlate\src\tests\UnitTests\obj\Debug\net8.0\UnitTests.genruntimeconfig.cache
-C:\gitenv\NetBoilerPlate\src\tests\UnitTests\obj\Debug\net8.0\ref\UnitTests.dll
+C:\gitenv\NetBoilerPlate\src\Tests\UnitTests\obj\Debug\net8.0\UnitTests.genruntimeconfig.cache
+C:\gitenv\NetBoilerPlate\src\Tests\UnitTests\obj\Debug\net8.0\ref\UnitTests.dll

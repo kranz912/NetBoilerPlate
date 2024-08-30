@@ -104,10 +104,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Microsoft.Common.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F47162A1-A43D-44E1-A98B-4649F6ACD2DF}|src\\Infrastructure\\Infrastructure.csproj|c:\\gitenv\\netboilerplate\\src\\infrastructure\\databaseseeder\\sqlscripts\\seedcustomers.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
-      "RelativeMoniker": "D:0:0:{F47162A1-A43D-44E1-A98B-4649F6ACD2DF}|src\\Infrastructure\\Infrastructure.csproj|solutionrelative:src\\infrastructure\\databaseseeder\\sqlscripts\\seedcustomers.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -133,8 +129,7 @@
               "RelativeToolTip": "src\\Infrastructure\\Caching\\RedisCacheServicecs.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T14:18:20.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T14:18:20.642Z"
             },
             {
               "$type": "Document",
@@ -146,8 +141,7 @@
               "RelativeToolTip": "src\\Infrastructure\\Security\\JwtTokenService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T14:13:42.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T14:13:42.646Z"
             },
             {
               "$type": "Document",
@@ -159,8 +153,7 @@
               "RelativeToolTip": "src\\Infrastructure\\EventBus\\AzureServiceBus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T14:13:16.626Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T14:13:16.626Z"
             },
             {
               "$type": "Document",
@@ -172,8 +165,7 @@
               "RelativeToolTip": "src\\Infrastructure\\FileStorage\\BlobStorageService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T14:12:45.492Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T14:12:45.492Z"
             },
             {
               "$type": "Document",
@@ -185,8 +177,7 @@
               "RelativeToolTip": "src\\Infrastructure\\FileStorage\\FileStorageService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T14:12:18.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T14:12:18.944Z"
             },
             {
               "$type": "Document",
@@ -198,8 +189,7 @@
               "RelativeToolTip": "src\\Infrastructure\\Configuration\\EmailSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T14:11:39.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T14:11:39.568Z"
             },
             {
               "$type": "Document",
@@ -211,8 +201,7 @@
               "RelativeToolTip": "src\\Infrastructure\\Logging\\DatabaseLogger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T14:11:18.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T14:11:18.533Z"
             },
             {
               "$type": "Document",
@@ -224,8 +213,7 @@
               "RelativeToolTip": "src\\Infrastructure\\Logging\\FileLogger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T14:11:07.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T14:11:07.582Z"
             },
             {
               "$type": "Document",
@@ -237,8 +225,7 @@
               "RelativeToolTip": "src\\Infrastructure\\DatabaseSeeder\\Seeder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T10:57:22.409Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T10:57:22.409Z"
             },
             {
               "$type": "Document",
@@ -250,8 +237,7 @@
               "RelativeToolTip": "src\\Web\\Program.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T10:36:18.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T10:36:18.528Z"
             },
             {
               "$type": "Document",
@@ -263,8 +249,7 @@
               "RelativeToolTip": "src\\Web\\Web.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-08-30T10:36:17.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T10:36:17.924Z"
             },
             {
               "$type": "Document",
@@ -276,8 +261,7 @@
               "RelativeToolTip": "src\\Core\\Interfaces\\IDBConnectionFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T10:25:18.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T10:25:18.258Z"
             },
             {
               "$type": "Document",
@@ -289,8 +273,7 @@
               "RelativeToolTip": "src\\Infrastructure\\Data\\DBConnectionFactory.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T10:24:53.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T10:24:53.458Z"
             },
             {
               "$type": "Document",
@@ -302,8 +285,7 @@
               "RelativeToolTip": "src\\Infrastructure\\Configuration\\ServiceCollectionExtensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T10:11:11.943Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T10:11:11.943Z"
             },
             {
               "$type": "Document",
@@ -328,8 +310,7 @@
               "RelativeToolTip": "src\\Core\\Interfaces\\ICustomerService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T10:08:07.846Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T10:08:07.846Z"
             },
             {
               "$type": "Document",
@@ -341,8 +322,7 @@
               "RelativeToolTip": "src\\Core\\Services\\CustomerService.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAYwBsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T10:07:31.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T10:07:31.467Z"
             },
             {
               "$type": "Document",
@@ -354,8 +334,7 @@
               "RelativeToolTip": "src\\Infrastructure\\ExternalServices\\EmailService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T10:00:50.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T10:00:50.547Z"
             },
             {
               "$type": "Document",
@@ -367,8 +346,7 @@
               "RelativeToolTip": "src\\Infrastructure\\Data\\CustomerRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwCkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T10:00:11.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T10:00:11.638Z"
             },
             {
               "$type": "Document",
@@ -380,8 +358,7 @@
               "RelativeToolTip": "src\\Core\\Interfaces\\IEmailService.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T09:58:57.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T09:58:57.838Z"
             },
             {
               "$type": "Document",
@@ -393,8 +370,7 @@
               "RelativeToolTip": "src\\Core\\Interfaces\\ICustomerRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T09:58:02.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T09:58:02.188Z"
             },
             {
               "$type": "Document",
@@ -406,8 +382,7 @@
               "RelativeToolTip": "src\\Core\\Entities\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T09:55:56.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T09:55:56.326Z"
             },
             {
               "$type": "Document",
@@ -419,8 +394,7 @@
               "RelativeToolTip": "src\\Web\\Controllers\\CustomerController.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwCEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T09:47:41.097Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T09:47:41.097Z"
             },
             {
               "$type": "Document",
@@ -432,20 +406,18 @@
               "RelativeToolTip": "src\\Web\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-30T12:52:38.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T12:52:38.555Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "SeedCustomers.sql ",
+              "Title": "SeedCustomers.sql",
               "DocumentMoniker": "C:\\gitenv\\NetBoilerPlate\\src\\Infrastructure\\DatabaseSeeder\\SQLScripts\\SeedCustomers.sql",
               "RelativeDocumentMoniker": "src\\Infrastructure\\DatabaseSeeder\\SQLScripts\\SeedCustomers.sql",
               "ToolTip": "C:\\gitenv\\NetBoilerPlate\\src\\Infrastructure\\DatabaseSeeder\\SQLScripts\\SeedCustomers.sql",
               "RelativeToolTip": "src\\Infrastructure\\DatabaseSeeder\\SQLScripts\\SeedCustomers.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-08-30T11:33:37.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T11:33:37.545Z"
             },
             {
               "$type": "Document",
@@ -457,8 +429,7 @@
               "RelativeToolTip": "..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Microsoft.Common.props",
               "ViewState": "AgIAAAEAAAAAAAAAAAAgwCEAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-08-30T09:44:04.253Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T09:44:04.253Z"
             }
           ]
         }
